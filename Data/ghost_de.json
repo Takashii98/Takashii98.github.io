@@ -10,48 +10,48 @@
   },
   {
     "name": "Gespenst",
-    "description": "Description_2",
-    "strength": "strength_2",
-    "weakness": "weakness_2",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
+    "description": "Ein Gespenst ist einer der gefährlichsten Geister die Sie finden werden. Er ist auch bekannt als der Geist, der fliegen und durch Wände gehen kann",
+    "strength": "Ein Gespenst berührt nie den Boden, wodurch es nicht durch Fußabdrücke gefunden werden kann. Kann durch Wände und Türen fliegen, ohne diese zu öffnen",
+    "weakness": "Kommt ein Gespenst mit Salz in Kontakt, löst dies eine vergiftende Wirkung bei diesem aus. Es wird sofort die Verfolgung unterbrechen.",
+    "evidence_1": "EMF Level 5",
+    "evidence_2": "D.O.T.S Projektor",
+    "evidence_3": "Geisterbox"
   },
   {
     "name": "Phantom",
-    "description": "Description_3",
-    "strength": "strength_3",
-    "weakness": "weakness_3",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
+    "description": "Ein Phantom ist ein Geist, der von den Lebenden Besitz ergreifen kann. Meistens beschworen durch das Ouijabrett. Verursacht Angst in den Menschen um ihn herum.",
+    "strength": "Wird ein Phantom angesehen, wird der Geisteszustand (Sanity) erheblich reduziert. Dies bezieht sich auf alle sichtbaren Manifestationen des Phantoms, auch während der Jagd.",
+    "weakness": "Wird vom Phantom ein Foto mit der Fotokamera gemacht, wird dieses wieder unsichtbar. Die Jagd wird dabei nicht unterbrochen.",
+    "evidence_1": "Geisterbox",
+    "evidence_2": "Fingerabdrücke",
+    "evidence_3": "D.O.T.S Projektor"
   },
   {
     "name": "Poltergeist",
-    "description": "Description_4",
-    "strength": "strength_4",
-    "weakness": "weakness_4",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
+    "description": "Einer der berühmtesten Geister. Ein Poltergeist ist bekannt als ein Wesen das laut ist und Objekte um sich herum manipuliert um seinen Opfern Angst einzujagen",
+    "strength": "Ein Poltergeist kann viele Objekte auf einmal werfen.",
+    "weakness": "Ein Poltergeist ist in einem leeren Raum fast ineffektiv.",
+    "evidence_1": "Geisterbox",
+    "evidence_2": "Fingerabdrücke",
+    "evidence_3": "Geisterbuch"
   },
   {
     "name": "Banshee",
     "description": "Description_5",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
+    "strength": "Eine Banshee fokussiert sich auf einen Spieler und wird ihn immer wieder jagen, bis er stirbt oder das Haus verlässt",
+    "weakness": "Banshees fürchten das Kruzifix dahingehend, dass dessen Reichweite, um eine Jagd zu verhindern, statt drei Metern fünf Meter beträgt",
+    "evidence_1": "Geisterkugeln",
+    "evidence_2": "Fingerabdrücke",
+    "evidence_3": "D.O.T.S Projektor"
   },
   {
     "name": "Dschinn",
     "description": "Description_5",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
+    "strength": "Ein Dschinn verfolgt Spieler schneller, wenn sie weit entfernt sind.",
+    "weakness": "Stellt man den Strom im Sicherungskasten ab, kann der Dschinn seine Kräfte nicht nutzen.",
+    "evidence_1": "EMF Level 5",
+    "evidence_2": "Fingerabdrücke",
+    "evidence_3": "Gefriertemperaturen"
   }
   ,
   {
