@@ -1,15 +1,15 @@
 ﻿[
   {
-    "name": "Name_1",
-    "description": "Description_1",
-    "strength": "strength_1",
-    "weakness": "weakness_1",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
+    "name": "Spirit",
+    "description": "Der Spirit ist eine der gewöhnlichsten Geisterarten, jedoch ist er sehr stark und gefährlich. Sie werden für gewöhnlich in einem Gebiet gefunden, in dem der Tod einer Person unaufgeklärt blieb.",
+    "strength": "Obwohl der Geist keine wirklichen Stärken hat, führt das Fehlen von einzigartigen Eigenschaften häufig dazu, dass Geisterjäger sie für einen anderen Geist halten",
+    "weakness": "Das Benutzen von Räucherstäbchen stoppt die Angriffe des Spirits für die doppelte Zeit, verglichen mit den anderen Geistern",
+    "evidence_1": "Geisterbox",
+    "evidence_2": "EMF Level 5",
+    "evidence_3": "Geisterbuch"
   },
   {
-    "name": "Name_2",
+    "name": "Gespenst",
     "description": "Description_2",
     "strength": "strength_2",
     "weakness": "weakness_2",
@@ -18,7 +18,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_3",
+    "name": "Phantom",
     "description": "Description_3",
     "strength": "strength_3",
     "weakness": "weakness_3",
@@ -27,7 +27,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_4",
+    "name": "Poltergeist",
     "description": "Description_4",
     "strength": "strength_4",
     "weakness": "weakness_4",
@@ -36,7 +36,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
+    "name": "Banshee",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
@@ -45,7 +45,53 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
+    "name": "Dschinn",
+    "description": "Description_5",
+    "strength": "strength_5",
+    "weakness": "weakness_5",
+    "evidence_1": "evidence_1",
+    "evidence_2": "evidence_2",
+    "evidence_3": "evidence_3"
+  }
+  ,
+  {
+    "name": "Mare",
+    "description": "Description_2",
+    "strength": "strength_2",
+    "weakness": "weakness_2",
+    "evidence_1": "evidence_1",
+    "evidence_2": "evidence_2",
+    "evidence_3": "evidence_3"
+  },
+  {
+    "name": "Myling",
+    "description": "Description_3",
+    "strength": "strength_3",
+    "weakness": "weakness_3",
+    "evidence_1": "evidence_1",
+    "evidence_2": "evidence_2",
+    "evidence_3": "evidence_3"
+  },
+  {
+    "name": "Revenant",
+    "description": "Description_4",
+    "strength": "strength_4",
+    "weakness": "weakness_4",
+    "evidence_1": "evidence_1",
+    "evidence_2": "evidence_2",
+    "evidence_3": "evidence_3"
+  },
+  {
+    "name": "Raiju",
+    "description": "Description_5",
+    "strength": "strength_5",
+    "weakness": "weakness_5",
+    "evidence_1": "evidence_1",
+    "evidence_2": "evidence_2",
+    "evidence_3": "evidence_3"
+  },
+  {
+    "name": "Shade",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
@@ -64,7 +110,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_3",
+    "name": "Dämon",
     "description": "Description_3",
     "strength": "strength_3",
     "weakness": "weakness_3",
@@ -73,7 +119,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_4",
+    "name": "Yurei",
     "description": "Description_4",
     "strength": "strength_4",
     "weakness": "weakness_4",
@@ -82,7 +128,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
+    "name": "Oni",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
@@ -91,7 +137,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
+    "name": "Yokai",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
@@ -101,7 +147,7 @@
   }
   ,
   {
-    "name": "Name_2",
+    "name": "Hantu",
     "description": "Description_2",
     "strength": "strength_2",
     "weakness": "weakness_2",
@@ -110,7 +156,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_3",
+    "name": "Die Zwillinge",
     "description": "Description_3",
     "strength": "strength_3",
     "weakness": "weakness_3",
@@ -119,7 +165,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_4",
+    "name": "Mimic",
     "description": "Description_4",
     "strength": "strength_4",
     "weakness": "weakness_4",
@@ -128,7 +174,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
+    "name": "Obake",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
@@ -137,44 +183,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
-    "description": "Description_5",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
-  }
-  ,
-  {
-    "name": "Name_2",
-    "description": "Description_2",
-    "strength": "strength_2",
-    "weakness": "weakness_2",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
-  },
-  {
-    "name": "Name_3",
-    "description": "Description_3",
-    "strength": "strength_3",
-    "weakness": "weakness_3",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
-  },
-  {
-    "name": "Name_4",
-    "description": "Description_4",
-    "strength": "strength_4",
-    "weakness": "weakness_4",
-    "evidence_1": "evidence_1",
-    "evidence_2": "evidence_2",
-    "evidence_3": "evidence_3"
-  },
-  {
-    "name": "Name_5",
+    "name": "Onryo",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
@@ -183,7 +192,7 @@
     "evidence_3": "evidence_3"
   },
   {
-    "name": "Name_5",
+    "name": "Goryo",
     "description": "Description_5",
     "strength": "strength_5",
     "weakness": "weakness_5",
