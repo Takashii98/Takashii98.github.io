@@ -1,4 +1,4 @@
-﻿[
+[
   {
     "name": "Spirit",
     "description": "Der Spirit ist eine der gewöhnlichsten Geisterarten, jedoch ist er sehr stark und gefährlich. Sie werden für gewöhnlich in einem Gebiet gefunden, in dem der Tod einer Person unaufgeklärt blieb.",
@@ -46,7 +46,7 @@
   },
   {
     "name": "Dschinn",
-    "description": "Description_5",
+    "description": "<Description>",
     "strength": "Ein Dschinn verfolgt Spieler schneller, wenn sie weit entfernt sind.",
     "weakness": "Stellt man den Strom im Sicherungskasten ab, kann der Dschinn seine Kräfte nicht nutzen.",
     "evidence_1": "EMF Level 5",
@@ -56,7 +56,7 @@
   ,
   {
     "name": "Mare",
-    "description": "Description_2",
+    "description": "<Description>",
     "strength": "Höhere Jagdwahrscheinlichkeit im Dunklen",
     "weakness": "Eingeschaltete Lichter vermindern die Wahrscheinlichkeit einer Jagd",
     "evidence_1": "Geisterbuch",
@@ -66,15 +66,15 @@
   {
     "name": "Myling",
     "description": "Eine Myling ist ein sehr lautstarker und aktiver Geist. Es heißt, dass sie leise sind, wenn sie ihre Beute jagen.",
-    "strength": "strength_3",
-    "weakness": "weakness_3",
+    "strength": "<strength>",
+    "weakness": "<weakness>",
     "evidence_1": "EMF Level 5",
     "evidence_2": "Fingerabdrücke",
     "evidence_3": "Geisterbuch"
   },
   {
     "name": "Revenant",
-    "description": "Description_4",
+    "description": "<Description>",
     "strength": "Der Revenant bewegt sich deutlich schneller, wenn er ein Ziel jagt. Außerdem kann er stets sein Ziel ändern.",
     "weakness": "Wenn man sich vor einem Revenant versteckt, bewegt er sich nur langsam.",
     "evidence_1": "Geisterorbs",
@@ -84,15 +84,15 @@
   {
     "name": "Raiju",
     "description": "Ein Raiju ist ein Dämon, der von elektrischem Strom lebt. Obwohl sie im Allgemeinen ruhig sind, können sie unruhig werden, wenn sie von Strom überwältigt werden.",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
+    "strength": "<strength>",
+    "weakness": "<weakness>",
     "evidence_1": "EMF Level 5",
     "evidence_2": "Geisterorbs",
     "evidence_3": "D.O.T.S Projektor"
   },
   {
     "name": "Shade",
-    "description": "Description_5",
+    "description": "<Description>",
     "strength": "Ein Shade ist im Beisein von mehreren Spieler sehr inaktiv, was es erschwert, ihn zu erkennen bzw. zu finden.",
     "weakness": "Umgekehrt wird ein Shade seltener eine Jagd beginnen, wenn mehrere Spieler zusammen sind.",
     "evidence_1": "EMF Level 5",
@@ -101,7 +101,7 @@
   },
   {
     "name": "Dämon",
-    "description": "Description_3",
+    "description": "<Description>",
     "strength": "Dämonen sind die aggressivsten Geister und jagen sehr häufig.",
     "weakness": "Eine erfolgreiche Befragung des Ouija-Bretts hat keinen Verlust des Geisteszustands zur Folge.",
     "evidence_1": "Gefriertemperaturen",
@@ -110,7 +110,7 @@
   },
   {
     "name": "Yurei",
-    "description": "Description_4",
+    "description": "<Description>",
     "strength": "Yurei haben einen stärkeren Einfluss auf den Geisteszustand von Menschen. Du verlierst doppelt soviel Prozent deines Geisteszustandes. 24% pro Minute.",
     "weakness": "Wenn sie den Raum des Yurei mit Räucherstäbchen ausräuchern, wird er für längere Zeit seine Bewegung einstellen.",
     "evidence_1": "Geisterorbs",
@@ -119,7 +119,7 @@
   },
   {
     "name": "Oni",
-    "description": "Description_5",
+    "description": "<Description>",
     "strength": "Onis sind stärker in der Nähe von Spielern und können Gegenstände mit hoher Geschwindigkeit bewegen.",
     "weakness": "Durch die hohe Aktivität sind Onis leichter zu identifizieren.",
     "evidence_1": "EMF Level 5",
@@ -128,7 +128,7 @@
   },
   {
     "name": "Yokai",
-    "description": "Description_5",
+    "description": "<Description>",
     "strength": "Das Sprechen in der Nähe eines Yokai verärgert ihn und erhöht die Wahrscheinlichkeit, dass er angreift.",
     "weakness": "Bei der Jagd kann ein Yokai nur Stimmen in seiner Nähe hören.",
     "evidence_1": "Geisterbox",
@@ -138,7 +138,7 @@
   ,
   {
     "name": "Hantu",
-    "description": "Description_2",
+    "description": "<Description>",
     "strength": "Bei niedrigen Temperaturen können sich die Hantu schneller bewegen",
     "weakness": "Ein Hantu bewegt sich in wärmeren Bereichen langsamer",
     "evidence_1": "Fingerabdrücke",
@@ -149,7 +149,7 @@
     "name": "Die Zwillinge",
     "description": "Es wird berichtet, dass diese Geister die Handlungen der anderen nachahmen. Sie wechseln ihre Angriffe ab, um ihre Beute zu verwirren",
     "strength": "strength_3",
-    "weakness": "weakness_3",
+    "weakness": "<weakness>",
     "evidence_1": "EMF Level 5",
     "evidence_2": "Geister Box",
     "evidence_3": "Gefriertemperatur"
@@ -157,8 +157,8 @@
   {
     "name": "Mimic",
     "description": "Der Mimic ist ein schwer fassbarer, mysteriöser Nachahmergeist, der Eigenschaften und Verhaltensweisen anderer Geister, einschließlich anderer Geistertypen, widerspiegelt",
-    "strength": "strength_4",
-    "weakness": "weakness_4",
+    "strength": "<strength>",
+    "weakness": "<weakness>",
     "evidence_1": "Geisterbox",
     "evidence_2": "Fingerabdrücke",
     "evidence_3": "Gefriertemperaturen"
@@ -166,8 +166,8 @@
   {
     "name": "Obake",
     "description": "Obake sind furchterregende Gestaltwandler, die viele Formen annehmen können. Man hat gesehen, wie sie humanoide Formen annahmen, um ihre Beute anzulocken.",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
+    "strength": "<strength>",
+    "weakness": "<weakness>",
     "evidence_1": "EMF Stufe 5",
     "evidence_2": "Fingerabdrücke",
     "evidence_3": "Geisterorbs"
@@ -175,8 +175,8 @@
   {
     "name": "Onryo",
     "description": "Der Onryo wird oft als 'der zornige Geist' bezeichnet. Er stiehlt Seelen aus den Körpern sterbender Opfer, um sich zu rächen. Dieser Geist ist dafür bekannt, dass er jede Form von Feuer fürchtet und alles tun würde, um sich von ihm fernzuhalten.",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
+    "strength": "<strength>",
+    "weakness": "<weakness>",
     "evidence_1": "Geisterbox",
     "evidence_2": "Geisterorbs",
     "evidence_3": "Gefriertemperatur"
@@ -184,8 +184,8 @@
   {
     "name": "Goryo",
     "description": "Wenn ein Goryo durch einen DOTS-Projektor läuft, kann man ihn nur mit einer Videokamera sehen.",
-    "strength": "strength_5",
-    "weakness": "weakness_5",
+    "strength": "<strength>",
+    "weakness": "<weakness>",
     "evidence_1": "EMF Stufe 5",
     "evidence_2": "Fingerabdrücke",
     "evidence_3": "D.O.T.S.-Projektor"
