@@ -37,7 +37,7 @@
   },
   {
     "name": "Banshee",
-    "description": "Description_5",
+    "description": "<Description>",
     "strength": "Eine Banshee fokussiert sich auf einen Spieler und wird ihn immer wieder jagen, bis er stirbt oder das Haus verlässt",
     "weakness": "Banshees fürchten das Kruzifix dahingehend, dass dessen Reichweite, um eine Jagd zu verhindern, statt drei Metern fünf Meter beträgt",
     "evidence_1": "Geisterorbs",
